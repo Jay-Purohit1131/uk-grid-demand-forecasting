@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.14.0+cpu
+streamlit==1.63.0
+plotly==7.0.0
+prophet==1.4.0
+holidays==0.104
+numpy==2.5.3
+pandas==3.0.5
+scikit-learn==1.9.0
