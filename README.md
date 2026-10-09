@@ -2,7 +2,7 @@
 
 Forecasting Great Britain's daily electricity demand 1–7 days ahead, comparing a seasonal-naive benchmark, SARIMA, Prophet and an LSTM on 359 rolling forecasts across 2025, with a live dashboard that forecasts the coming week from NESO's latest data.
 
-**Live demo:** _link coming soon_
+**Live demo:** https://uk-grid-demand-forecasting-ya8y2jb5cfqi9k5ulfj45r.streamlit.app/
 
 ![Dashboard](docs/images/dashboard.png)
 
