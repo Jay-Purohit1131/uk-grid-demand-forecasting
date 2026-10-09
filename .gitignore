@@ -3,6 +3,7 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
-data/
-models/
+data/raw/
+models/*
+!models/lstm_tuned_seed*.pt
 .DS_Store
